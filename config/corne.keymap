@@ -54,7 +54,7 @@
 //                   | GUI |     | SPC |   | ENT |     | ALT |
                         bindings = <
    &kp TAB   &kp KP_N1       &kp KP_N2   &kp KP_N3  &kp KP_N4   &kp KP_N5   &kp KP_N6   &kp KP_N7   &kp KP_N8 &kp KP_N9   &kp STAR   &kp BKSP
-   &kp LSHFT &bt BT_CLR_All  &bt BT_NXT  &bt BT_PRV &trans      &trans      &trans      &trans    &trans      &trans      &trans     &trans
+   &kp LSHFT &bt BT_CLR      &bt BT_NXT  &bt BT_PRV &trans      &trans      &trans      &trans      &trans    &trans      &trans     &trans
    &kp LCTRL &trans          &trans      &trans     &trans      &trans      &trans      &trans      &trans    &trans      &trans     &trans
                              &kp LGUI    &trans     &kp SPACE   &kp RET     &trans      &kp RALT
                         >;
